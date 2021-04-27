@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #FFFFFF;
+}
+
+p {
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    background-color: #A52A2A;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+
+.sunset {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.cars {
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.car_img {
+    border: 3px dashed #020403;
+    margin: 2px;
+}
+
+footer {
+    background-color: #000000;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.footer {
+    font-size: 20px;
+    color: #FFFFFF;
+}
